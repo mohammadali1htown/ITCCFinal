@@ -4,7 +4,7 @@ import requests
 import urllib.parse
 import threading
 
-KEY = "c2ffa9e5-9a7c-4798-aa1d-ed78e4cc71c9"
+KEY = "INSERT KEY"
 GEOCODE_URL = "https://graphhopper.com/api/1/geocode?"
 ROUTE_URL = "https://graphhopper.com/api/1/route?"
 
